@@ -83,8 +83,6 @@ function App() {
                        onAmountChange ={handleAmount2Change}
                    />
                </div>
-
-               <div> convertation</div>
            </div>
 
         </div>
